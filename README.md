@@ -105,7 +105,7 @@ Colors were chosen to closely match the original Mintlify design and maintain st
 
 1.Clone the repository:
 
-git clone https://github.com/peeyushtiwari888/mintlify-website
+git clone https://github.com/peeyushtiwari888/mintlify
 
 
 2.Navigate to the project folder:
