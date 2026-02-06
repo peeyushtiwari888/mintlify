@@ -88,7 +88,7 @@ Colors were chosen to closely match the original Mintlify design and maintain st
 5. Video & Image Embeds – UI realism
 ---
 
- 📂 Project Structure
+## 📂 Project Structure
 
  ```
 ├── index.html
@@ -101,7 +101,7 @@ Colors were chosen to closely match the original Mintlify design and maintain st
 │   └── image3.png
 └── README.md
 ```
-🚀 How to Run Locally
+##🚀 How to Run Locally
 
 1.Clone the repository:
 
@@ -116,7 +116,7 @@ cd mintlify-website
 3.Open index.html in any modern browser (Chrome, Edge, Firefox).
 ---
 
-🚀 Future Improvements
+##🚀 Future Improvements
 
 1.Add JavaScript-based interactivity
 
@@ -129,14 +129,14 @@ cd mintlify-website
 5.Refactor CSS using variables & reusable utility classes
 
 ---   
-😊 Happy Coding
+##😊 Happy Coding
 
 This project was built with attention to detail, modern UI practices, and a focus on improving frontend development skills.
 Feel free to explore the code, experiment with layouts, and build upon it.
 
 Happy Coding! 🚀
 ---
-👤 Author
+##👤 Author
 
 Peeyush Tiwari
 🎓 Software Engineer | Frontend Enthusiast
