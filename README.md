@@ -12,6 +12,10 @@ This project was built as a **frontend practice + UI cloning assignment**, focus
 👉 **Live Website (Netlify):**  
 https://zippy-jelly-7c91f9.netlify.app/
 
+linkedin video link:
+https://www.linkedin.com/posts/peeyush-tiwari-a4b802319_assignmentcompleted-learningbydoing-chaicode-activity-7424749245921959936-kXXZ?utm_source=share&utm_medium=member_android&rcm=ACoAAFC-Q1sB70Nh5GBwvPT0avmpakfjWxwwDeA
+
+
 ---
 
 ## 📌 Sections Recreated
@@ -44,10 +48,6 @@ Below are desktop preview screenshots of the project UI:
 ![Desktop View 6](image6.png)
 ![Desktop View 7](image7.png)
 ![Desktop View 7](image8.png)
-
-
-
-
 ---
 
 ## 🎨 Fonts Used
@@ -86,6 +86,7 @@ Colors were chosen to closely match the original Mintlify design and maintain st
 4. CSS Grid – Complex section layouts
 
 5. Video & Image Embeds – UI realism
+---
 
  📂 Project Structure
 
